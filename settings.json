@@ -8,7 +8,7 @@
   "server": {
     "ip": "leaf-village9090.aternos.me",
     "port": 12737,
-    "version": "26.3"
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
