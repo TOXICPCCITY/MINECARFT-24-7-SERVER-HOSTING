@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "GLADY",
+    "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "leaf-village9090.aternos.me",
+    "ip": "leaf-village9090.aternos.me:12737",
     "port": 12737,
     "version": "26.2"
   },
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "Glady avara Eng Idhira",
-        "MriTunRaj Avara En Maruthidira",
-        "VECTX ON TOP"
+        "I'm a regular player",
+        "Subscribe to Perzaan Gaming!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1559106061078630400/CjwWs5M4q74pgCj96fwMM5f2-dBXc8VaRF4ES4cn0w5yAjgHsFFHIrt0L99kKu7nf1q9",
     "events": {
       "connect": true,
       "disconnect": true,
@@ -89,3 +89,4 @@
     "respond": true
   }
 }
+  1559106061078630400
